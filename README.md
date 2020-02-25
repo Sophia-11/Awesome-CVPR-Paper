@@ -1,6 +1,55 @@
 # Awesome-CVPR-Paper
+# 更新2020年最新CVPR
 
 CVPR论文收集，包含但不限于2017、2018、2019文章，会持续更新
+
+## CVPR 2020
+1.GhostNet: More Features from Cheap Operations（超越Mobilenet v3的架构）
+论文链接：https://arxiv.org/pdf/1911.11907arxiv.org
+模型（在ARM CPU上的表现惊人）：https://github.com/iamhankai/ghostnetgithub.com
+
+We beat other SOTA lightweight CNNs such as MobileNetV3 and FBNet.
+
+2. AdderNet: Do We Really Need Multiplications in Deep Learning? （加法神经网络）
+在大规模神经网络和数据集上取得了非常好的表现
+论文链接：https://arxiv.org/pdf/1912.13200arxiv.org
+
+3. Frequency Domain Compact 3D Convolutional Neural Networks （3dCNN压缩）
+论文链接：https://arxiv.org/pdf/1909.04977arxiv.org
+开源代码：https://github.com/huawei-noah/CARSgithub.com
+
+4. A Semi-Supervised Assessor of Neural Architectures （神经网络精度预测器 NAS）
+
+5. Hit-Detector: Hierarchical Trinity Architecture Search for Object Detection （NAS 检测）
+backbone-neck-head一起搜索， 三位一体
+
+6. CARS: Contunuous Evolution for Efficient Neural Architecture Search (连续进化的NAS)
+高效，具备可微和进化的多重优势，且能输出帕累托前研
+
+7. On Positive-Unlabeled Classification in GAN （PU+GAN）
+
+8. Learning multiview 3D point cloud registration（3D点云）
+论文链接：arxiv.org/abs/2001.05119
+
+9. Multi-Modal Domain Adaptation for Fine-Grained Action Recognition（细粒度动作识别）
+论文链接：arxiv.org/abs/2001.09691
+
+10. Action Modifiers:Learning from Adverbs in Instructional Video
+论文链接：arxiv.org/abs/1912.06617
+
+11. PolarMask: Single Shot Instance Segmentation with Polar Representation（实例分割建模）
+论文链接：arxiv.org/abs/1909.13226
+论文解读：https://zhuanlan.zhihu.com/p/84890413
+开源代码：https://github.com/xieenze/PolarMask
+
+12. Rethinking Performance Estimation in Neural Architecture Search（NAS）
+由于block wise neural architecture search中真正消耗时间的是performance estimation部分，本文针对 block wise的NAS找到了最优参数，速度更快，且相关度更高。
+
+13. Distribution Aware Coordinate Representation for Human Pose Estimation（人体姿态估计）
+论文链接：arxiv.org/abs/1910.06278
+Github：https://github.com/ilovepose/DarkPose
+作者团队主页：https://ilovepose.github.io/coco/
+
 
 ## CVPR 2017
 
