@@ -1,4 +1,7 @@
 # Awesome-CVPR-Paper
+
+# CVPR2021录取结果已经公布！
+
 # 更新2020年最新CVPR下载链接！
 # 更新CVPR2020,1400篇论百度云
 
