@@ -1,14 +1,27 @@
-# Awesome-CVPR-Paper
+# CVPR 2021\2020\2019\2018\2017 最新文章下载
 
-# CVPR2021录取结果已经公布！
+# 目录
+## 1.CVPR2021
+## 2.CVPR2020、2019、2018、2017下载链接
 
-# 更新2020年最新CVPR下载链接！
-# 更新CVPR2020,1400篇论百度云
+# 1.CVPR2021
+# [CVPR2021录取结果已经公布！](./CVPR2021/accept_numper.md)
 
-CVPR论文收集，包含但不限于2017、2018、2019、2020文章，会持续更新
+# 2.CVPR2020、2019、2018、2017下载链接
 
 ## 公众号【计算机视觉联盟】后台回复  CVPR2020   下载最新论文
-###  往年的请回复  CVPR2019
+
+## CVPR 2019
+* [CVPR 2019 Paper List ](./CVPR%202019/CVPR%202019%20Paper%20List)
+* [CVPR 2019 Paper](./CVPR%202019/CVPR%202019%20Paper)
+
+## CVPR 2018
+* [CVPR 2018 Paper List ](./CVPR%202018/CVPR%202018%20Paper%20List)
+* [CVPR 2018 Paper](./CVPR%202018/CVPR%202018%20Paper)
+
+## CVPR 2017
+* [CVPR 2017 Paper List ](./CVPR%202017/CVPR%202017%20PaperList)
+* [CVPR 2017 Paper](./CVPR%202017/CVPR%202017%20Paper)
 
 ## CVPR 2020
 1.GhostNet: More Features from Cheap Operations（超越Mobilenet v3的架构）
@@ -214,18 +227,7 @@ https://arxiv.org/pdf/1912.02184
 
 
 
-## CVPR 2017
 
-* [CVPR 2017 Paper List ](https://github.com/Sophia-11/Awesome-CVPR-Paper/blob/master/CVPR%202017/CVPR%202017%20PaperList)
-* [CVPR 2017 Paper](https://github.com/Sophia-11/Awesome-CVPR-Paper/blob/master/CVPR%202017/CVPR%202017%20Paper)
-
-## CVPR 2018
-* [CVPR 2018 Paper List ](https://github.com/Sophia-11/Awesome-CVPR-Paper/blob/master/CVPR%202018/CVPR%202018%20Paper%20List)
-* [CVPR 2018 Paper](https://github.com/Sophia-11/Awesome-CVPR-Paper/blob/master/CVPR%202018/CVPR%202018%20Paper)
-
-## CVPR 2019
-* [CVPR 2019 Paper List ](https://github.com/Sophia-11/Awesome-CVPR-Paper/blob/master/CVPR%202019/CVPR%202019%20Paper%20List)
-* [CVPR 2019 Paper](https://github.com/Sophia-11/Awesome-CVPR-Paper/blob/master/CVPR%202019/CVPR%202019%20Paper)
 
 
 # CVPR近年来最佳论文
