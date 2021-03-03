@@ -1,9 +1,10 @@
 # CVPR 2021\2020\2019\2018\2017 最新文章下载
+# 公众号【计算机视觉联盟】后台回复 CVPR2021 获得百度云
 
 ### 目录
 #### 【1】CVPR2021录取结果公布
-#### 【2】CVPR2020、2019、2018、2017下载链接
-#### 【3】CVPR2021最新更新文章
+#### 【2】CVPR2021最新更新文章
+#### 【3】CVPR2020、2019、2018、2017下载链接
 #### 【4】CVPR近年来最佳论文
 
 update：2021/03/03
@@ -11,8 +12,113 @@ update：2021/03/03
 ---------------------
 ### 【1】CVPR2021录取结果公布
 #### [CVPR2021录取结果已经公布！](./CVPR2021/accept_numper.md)
+
 --------------
-### 【2】CVPR2020、2019、2018、2017下载链接
+
+### 【2】CVPR2021最新更新论文
+Image-to-image Translation via Hierarchical Style Disentanglement
+Xinyang Li, Shengchuan Zhang, Jie Hu, Liujuan Cao, Xiaopeng Hong, Xudong Mao, Feiyue Huang, Yongjian Wu, Rongrong Ji
+https://arxiv.org/abs/2103.01456
+https://github.com/imlixinyang/HiSD
+
+FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation
+https://arxiv.org/pdf/2012.08512.pdf
+https://tarun005.github.io/FLAVR/Code
+https://tarun005.github.io/FLAVR/
+
+Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition
+Stephen Hausler, Sourav Garg, Ming Xu, Michael Milford, Tobias Fischer
+https://arxiv.org/abs/2103.01486
+
+Depth from Camera Motion and Object Detection
+Brent A. Griffin, Jason J. Corso
+https://arxiv.org/abs/2103.01468
+
+UP-DETR: Unsupervised Pre-training for Object Detection with Transformers
+https://arxiv.org/pdf/2011.09094.pdf
+
+Multi-Stage Progressive Image Restoration
+https://arxiv.org/abs/2102.02808
+https://github.com/swz30/MPRNet
+
+Weakly Supervised Learning of Rigid 3D Scene Flow
+https://arxiv.org/pdf/2102.08945.pdf
+https://arxiv.org/pdf/2102.08945.pdf
+https://3dsceneflow.github.io/
+
+Exploring Complementary Strengths of Invariant and Equivariant Representations for Few-Shot Learning
+Mamshad Nayeem Rizve, Salman Khan, Fahad Shahbaz Khan, Mubarak Shah
+https://arxiv.org/abs/2103.01315
+
+Re-labeling ImageNet: from Single to Multi-Labels, from Global to Localized Labels
+https://arxiv.org/abs/2101.05022
+https://github.com/naver-ai/relabel_imagenet
+
+Rethinking Channel Dimensions for Efficient Model Design
+https://arxiv.org/abs/2007.00992
+https://github.com/clovaai/rexnet
+
+Coarse-Fine Networks for Temporal Activity Detection in Videos
+Kumara Kahatapitiya, Michael S. Ryoo
+https://arxiv.org/abs/2103.01302
+
+A Deep Emulator for Secondary Motion of 3D Characters
+Mianlun Zheng, Yi Zhou, Duygu Ceylan, Jernej Barbic
+https://arxiv.org/abs/2103.01261
+
+Fair Attribute Classification through Latent Space De-biasing
+https://arxiv.org/abs/2012.01469
+https://github.com/princetonvisualai/gan-debiasing
+https://princetonvisualai.github.io/gan-debiasing/
+
+Auto-Exposure Fusion for Single-Image Shadow Removal
+Lan Fu, Changqing Zhou, Qing Guo, Felix Juefei-Xu, Hongkai Yu, Wei Feng, Yang Liu, Song Wang
+https://arxiv.org/abs/2103.01255
+
+Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling
+https://arxiv.org/pdf/2102.06183.pdf
+https://github.com/jayleicn/ClipBERT
+
+MetaSCI: Scalable and Adaptive Reconstruction for Video Compressive Sensing
+Zhengjue Wang, Hao Zhang, Ziheng Cheng, Bo Chen, Xin Yuan
+https://arxiv.org/abs/2103.01786
+
+AttentiveNAS: Improving Neural Architecture Search via Attentive
+https://arxiv.org/pdf/2011.09011.pdf
+
+Diffusion Probabilistic Models for 3D Point Cloud Generation
+Shitong Luo, Wei Hu
+https://arxiv.org/abs/2103.01458
+
+There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge
+Francisco Rivera Valverde, Juana Valeria Hurtado, Abhinav Valada
+https://arxiv.org/abs/2103.01353
+http://rl.uni-freiburg.de/research/multimodal-distill
+
+Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation
+https://arxiv.org/abs/2008.00951
+https://github.com/eladrich/pixel2style2pixel
+https://eladrich.github.io/pixel2style2pixel/
+
+Hierarchical and Partially Observable Goal-driven Policy Learning with Goals Relational Graph
+Xin Ye, Yezhou Yang
+https://arxiv.org/abs/2103.01350
+
+RepVGG: Making VGG-style ConvNets Great Again
+https://arxiv.org/abs/2101.03697
+https://github.com/megvii-model/RepVGG
+
+Transformer Interpretability Beyond Attention Visualization
+https://arxiv.org/pdf/2012.09838.pdf
+https://github.com/hila-chefer/Transformer-Explainability
+
+PREDATOR: Registration of 3D Point Clouds with Low Overlap
+https://arxiv.org/pdf/2011.13005.pdf
+https://github.com/ShengyuH/OverlapPredator
+https://overlappredator.github.io/
+
+----------------
+### 【3】CVPR2020、2019、2018、2017下载链接
 
 ## CVPR 2020
 * 公众号【计算机视觉联盟】后台回复  CVPR2020   下载最新论文
@@ -237,6 +343,6 @@ https://arxiv.org/pdf/1912.02184
 
 
 
-# CVPR近年来最佳论文
+# 【4】CVPR近年来最佳论文
 
 <tbody><tr><td rowspan="1"><b>2018</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Taskonomy:+Disentangling+Task+Transfer+Learning&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Zamir">Taskonomy: Disentangling Task Transfer Learning</a></td><td>Amir R. Zamir, Stanford University<a href="#" onclick="this.nextSibling.style.display = 'block'; this.style.display = 'none'; return false;">; et al.</a><div>Alexander Sax, Stanford University<br>William Shen, Stanford University<br>Leonidas Guibas, Stanford University<br>Jitendra Malik, University of California Berkeley<br>Silvio Savarese, Stanford University</div></td></tr><tr><td rowspan="2"><b>2017</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Densely+Connected+Convolutional+Networks&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Liu">Densely Connected Convolutional Networks</a></td><td>Zhuang Liu, Tsinghua University<a href="#" onclick="this.nextSibling.style.display = 'block'; this.style.display = 'none'; return false;">; et al.</a><div>Gao Huang, Cornell University<br>Laurens van der Maaten, Facebook AI Research<br>Kilian Q. Weinberger, Cornell University</div></td></tr><tr><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Learning+from+Simulated+and+Unsupervised+Images+through+Adversarial+Training&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Shrivastava">Learning from Simulated and Unsupervised Images through Adversarial Training</a></td><td>Ashish Shrivastava, Apple Inc.<a href="#" onclick="this.nextSibling.style.display = 'block'; this.style.display = 'none'; return false;">; et al.</a><div>Tomas Pfister, Apple Inc.<br>Oncel Tuzel, Apple Inc.<br>Josh Susskind, Apple Inc.<br>Wenda Wang, Apple Inc.<br>Russ Webb, Apple Inc.</div></td></tr><tr><td rowspan="1"><b>2016</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Deep+Residual+Learning+for+Image+Recognition&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=He">Deep Residual Learning for Image Recognition</a></td><td>Kaiming He, Microsoft Research<a href="#" onclick="this.nextSibling.style.display = 'block'; this.style.display = 'none'; return false;">; et al.</a><div>Xiangyu Zhang, Microsoft Research<br>Shaoqing Ren, Microsoft Research<br>Jian Sun, Microsoft Research</div></td></tr><tr><td rowspan="1"><b>2015</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=DynamicFusion:+Reconstruction+and+Tracking+of+Non-rigid+Scenes+in+Real-Time&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Newcombe">DynamicFusion: Reconstruction and Tracking of Non-rigid Scenes in Real-Time</a></td><td>Richard A. Newcombe, University of Washington<a href="#" onclick="this.nextSibling.style.display = 'block'; this.style.display = 'none'; return false;">; et al.</a><div>Dieter Fox, University of Washington<br>Steven M. Seitz, University of Washington</div></td></tr><tr><td rowspan="1"><b>2014</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=What+Camera+Motion+Reveals+About+Shape+with+Unknown+BRDF&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Chandraker">What Camera Motion Reveals About Shape with Unknown BRDF</a></td><td>Manmohan Chandraker, NEC Labs America</td></tr><tr><td rowspan="1"><b>2013</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Fast,+Accurate+Detection+of+100,000+Object+Classes+on+a+Single+Machine&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Dean">Fast, Accurate Detection of 100,000 Object Classes on a Single Machine</a></td><td>Thomas Dean, Google<a href="#" onclick="this.nextSibling.style.display = 'block'; this.style.display = 'none'; return false;">; et al.</a><div>Mark A. Ruzon, Google<br>Mark Segal, Google<br>Jonathon Shlens, Google<br>Sudheendra Vijayanarasimhan, Google<br>Jay Yagnik, Google</div></td></tr><tr><td rowspan="1"><b>2012</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=A+Simple+Prior-free+Method+for+Non-Rigid+Structure-from-Motion+Factorization&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Dai">A Simple Prior-free Method for Non-Rigid Structure-from-Motion Factorization</a></td><td>Yuchao Dai, Northwestern Polytechnical University<a href="#" onclick="this.nextSibling.style.display = 'block'; this.style.display = 'none'; return false;">; et al.</a><div>Hongdong Li, Australian National University<br>Mingyi He, Northwestern Polytechnical University</div></td></tr><tr><td rowspan="1"><b>2011</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Real-time+Human+Pose+Recognition+in+Parts+from+Single+Depth+Images&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Shotton">Real-time Human Pose Recognition in Parts from Single Depth Images</a></td><td>Jamie Shotton, Microsoft Research<a href="#" onclick="this.nextSibling.style.display = 'block'; this.style.display = 'none'; return false;">; et al.</a><div>Andrew Fitzgibbon, Microsoft Research<br>Mat Cook, Microsoft Research<br>Toby Sharp, Microsoft Research<br>Mark Finocchio, Microsoft Research<br>Richard Moore, Microsoft Research<br>Alex Kipman, Microsoft Research<br>Andrew Blake, Microsoft Research</div></td></tr><tr><td rowspan="1"><b>2010</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Efficient+Computation+of+Robust+Low-Rank+Matrix+Approximations+in+the+Presence+of+Missing+Data+using+the+L1+Norm&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Eriksson">Efficient Computation of Robust Low-Rank Matrix Approximations in the Presence of Missing Data usi...</a></td><td>Anders Eriksson &amp; Anton va den Hendel, University of Adelaide</td></tr><tr><td rowspan="1"><b>2009</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Single+Image+Haze+Removal+Using+Dark+Channel+Prior&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=He">Single Image Haze Removal Using Dark Channel Prior</a></td><td>Kaiming He, The Chinese University of Hong Kong<a href="#" onclick="this.nextSibling.style.display = 'block'; this.style.display = 'none'; return false;">; et al.</a><div>Jian Sun, Microsoft Research<br>Xiaoou Tang, The Chinese University of Hong Kong</div></td></tr><tr><td rowspan="2"><b>2008</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Global+Stereo+Reconstruction+under+Second+Order+Smoothness+Priors&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Woodford">Global Stereo Reconstruction under Second Order Smoothness Priors</a></td><td>Oliver Woodford, University of Oxford<a href="#" onclick="this.nextSibling.style.display = 'block'; this.style.display = 'none'; return false;">; et al.</a><div>Ian Reid, Oxford Brookes University<br>Philip Torr, University of Oxford<br>Andrew Fitzgibbon, Microsoft Research</div></td></tr><tr><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Beyond+Sliding+Windows:+Object+Localization+by+Efficient+Subwindow+Search&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Lampert">Beyond Sliding Windows: Object Localization by Efficient Subwindow Search</a></td><td>Chistoph H. Lampert, Max Planck Institut<a href="#" onclick="this.nextSibling.style.display = 'block'; this.style.display = 'none'; return false;">; et al.</a><div>Matthew B. Blaschko, Max Planck Institut<br>Thomas Hodmann, Google</div></td></tr><tr><td rowspan="1"><b>2007</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Dynamic+3D+Scene+Analysis+from+a+Moving+Vehicle&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Leibe">Dynamic 3D Scene Analysis from a Moving Vehicle</a></td><td>Bastian Leibe, ETH Zurich<a href="#" onclick="this.nextSibling.style.display = 'block'; this.style.display = 'none'; return false;">; et al.</a><div>Nico Cornelis, Katholieke Universiteit Leuven<br>Kurt COrnelis, Katholieke Universiteit Leuven<br>Luc Van Gool, ETH Zurich</div></td></tr><tr><td rowspan="1"><b>2006</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Putting+Objects+in+Perspective&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Hoiem">Putting Objects in Perspective</a></td><td>Derek Hoiem, Carnegie Mellon University<a href="#" onclick="this.nextSibling.style.display = 'block'; this.style.display = 'none'; return false;">; et al.</a><div>Alexei Efros, Carnegie Mellon University<br>Martial Hebert, Carnegie Mellon University</div></td></tr><tr><td rowspan="1"><b>2005</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Real-Time+Non-Rigid+Surface+Detection&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Pilet">Real-Time Non-Rigid Surface Detection</a></td><td>Julien Pilet, École Polytechnique Fédérale de Lausanne<a href="#" onclick="this.nextSibling.style.display = 'block'; this.style.display = 'none'; return false;">; et al.</a><div>Vincent Lepetit, École Polytechnique Fédérale de Lausanne<br>Pascal Fua, École Polytechnique Fédérale de Lausanne</div></td></tr><tr><td rowspan="1"><b>2004</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Programmable+Imaging+using+a+Digital+Micromirror+Array&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Nayar">Programmable Imaging using a Digital Micromirror Array</a></td><td>Shree K. Nayar, Columbia University<a href="#" onclick="this.nextSibling.style.display = 'block'; this.style.display = 'none'; return false;">; et al.</a><div>Vlad Branzoi, Columbia University<br>Terry E. Boult, University of Colorado</div></td></tr><tr><td rowspan="1"><b>2003</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Object+Class+Recognition+by+Unsupervised+Scale-Invariant+Learning&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Fergus">Object Class Recognition by Unsupervised Scale-Invariant Learning</a></td><td>Rob Fergus, University of Oxford<a href="#" onclick="this.nextSibling.style.display = 'block'; this.style.display = 'none'; return false;">; et al.</a><div>Pietro Perona, California Institute of Technology<br>Andrew Zisserman, University of Oxford</div></td></tr><tr><td rowspan="1"><b>2001</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Morphable+3D+models+from+video&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Brand">Morphable 3D models from video</a></td><td>Matthew Brand, Mitsubishi Electric Research Laboratories</td></tr><tr><td rowspan="1"><b>2000</b></td><td><a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Real-Time+Tracking+of+Non-Rigid+Objects+using+Mean+Shift&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Comaniciu">Real-Time Tracking of Non-Rigid Objects using Mean Shift</a></td><td>Dorin Comaniciu, Siemens Corporate Research<a href="#" onclick="this.nextSibling.style.display = 'block'; this.style.display = 'none'; return false;">; et al.</a><div>Visvanathan Ramesh, Siemens Corporate Research<br>Peter Meer, Rutgers University</div></td></tr></tbody>
