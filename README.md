@@ -118,6 +118,46 @@ https://arxiv.org/pdf/2011.13005.pdf
 https://github.com/ShengyuH/OverlapPredator
 https://overlappredator.github.io/
 
+Multiresolution Knowledge Distillation for Anomaly Detection
+https://arxiv.org/abs/2011.11108
+
+Positive-Unlabeled Data Purification in the Wild for Object Detection
+
+Data-Free Knowledge Distillation For Image Super-Resolution
+
+Manifold Regularized Dynamic Network Pruning
+
+Pre-Trained Image Processing Transformer
+https://arxiv.org/pdf/2012.00364.pdf
+
+ReNAS: Relativistic Evaluation of Neural Architecture Search
+https://arxiv.org/pdf/1910.01523.pdf
+
+AdderSR: Towards Energy Efficient Image Super-Resolution
+https://arxiv.org/pdf/2009.08891.pdf
+https://github.com/huawei-noah/AdderNet
+
+Learning Student Networks in the Wild
+https://arxiv.org/pdf/1904.01186.pdf
+https://github.com/huawei-noah/DAFL
+https://www.zhihu.com/question/446299297
+
+HourNAS: Extremely Fast Neural Architecture Search Through an Hourglass Lens
+https://arxiv.org/pdf/2005.14446.pdf
+
+Probabilistic Embeddings for Cross-Modal Retrieval
+https://arxiv.org/abs/2101.05068
+
+PLOP: Learning without Forgetting for Continual Semantic Segmentation
+https://arxiv.org/abs/2011.11390
+
+Rainbow Memory: Continual Learning with a Memory of Diverse Samples
+
+Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing
+
+
+
+
 ----------------
 ### 【3】CVPR2020、2019、2018、2017下载链接
 
