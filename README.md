@@ -7,7 +7,7 @@
 #### 【3】CVPR2020、2019、2018、2017下载链接
 #### 【4】CVPR近年来最佳论文
 
-update：2021/03/03
+update：2021/03/16
 
 ---------------------
 ### 【1】CVPR2021录取结果公布
@@ -17,143 +17,165 @@ update：2021/03/03
 --------------
 
 ### 【2】CVPR2021最新更新论文
-Image-to-image Translation via Hierarchical Style Disentanglement
+
+* Coarse-Fine Networks for Temporal Activity Detection in Videos
+
+* Instance Localization for Self-supervised Detection Pretraining
+https://arxiv.org/pdf/2102.08318.pdf
+https://github.com/limbo0000/InstanceLoc
+
+* Weakly-supervised Grounded Visual Question Answering using Capsules
+
+* 4D Panoptic LiDAR Segmentation
+https://arxiv.org/abs/2102.12472
+
+* Dogfight: Detecting Drones from Drone Videos
+
+* Multiple Instance Active Learning for Object Detection
+https://github.com/yuantn/MIAL/raw/master/paper.pdf
+https://github.com/yuantn/MIAL
+
+* Reconsidering Representation Alignment for Multi-view Clustering
+
+* Self-supervised Simultaneous Multi-Step Prediction of Road Dynamics and Cost Map
+
+* Image-to-image Translation via Hierarchical Style Disentanglement
 Xinyang Li, Shengchuan Zhang, Jie Hu, Liujuan Cao, Xiaopeng Hong, Xudong Mao, Feiyue Huang, Yongjian Wu, Rongrong Ji
 https://arxiv.org/abs/2103.01456
 https://github.com/imlixinyang/HiSD
 
-FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation
+* FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation
 https://arxiv.org/pdf/2012.08512.pdf
 https://tarun005.github.io/FLAVR/Code
 https://tarun005.github.io/FLAVR/
 
-Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition
+* Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition
 Stephen Hausler, Sourav Garg, Ming Xu, Michael Milford, Tobias Fischer
 https://arxiv.org/abs/2103.01486
 
-Depth from Camera Motion and Object Detection
+* Depth from Camera Motion and Object Detection
 Brent A. Griffin, Jason J. Corso
 https://arxiv.org/abs/2103.01468
 
-UP-DETR: Unsupervised Pre-training for Object Detection with Transformers
+* UP-DETR: Unsupervised Pre-training for Object Detection with Transformers
 https://arxiv.org/pdf/2011.09094.pdf
 
-Multi-Stage Progressive Image Restoration
+* Multi-Stage Progressive Image Restoration
 https://arxiv.org/abs/2102.02808
 https://github.com/swz30/MPRNet
 
-Weakly Supervised Learning of Rigid 3D Scene Flow
+* Weakly Supervised Learning of Rigid 3D Scene Flow
 https://arxiv.org/pdf/2102.08945.pdf
 https://arxiv.org/pdf/2102.08945.pdf
 https://3dsceneflow.github.io/
 
-Exploring Complementary Strengths of Invariant and Equivariant Representations for Few-Shot Learning
+* Exploring Complementary Strengths of Invariant and Equivariant Representations for Few-Shot Learning
 Mamshad Nayeem Rizve, Salman Khan, Fahad Shahbaz Khan, Mubarak Shah
 https://arxiv.org/abs/2103.01315
 
-Re-labeling ImageNet: from Single to Multi-Labels, from Global to Localized Labels
+* Re-labeling ImageNet: from Single to Multi-Labels, from Global to Localized Labels
 https://arxiv.org/abs/2101.05022
 https://github.com/naver-ai/relabel_imagenet
 
-Rethinking Channel Dimensions for Efficient Model Design
+* Rethinking Channel Dimensions for Efficient Model Design
 https://arxiv.org/abs/2007.00992
 https://github.com/clovaai/rexnet
 
-Coarse-Fine Networks for Temporal Activity Detection in Videos
+* Coarse-Fine Networks for Temporal Activity Detection in Videos
 Kumara Kahatapitiya, Michael S. Ryoo
 https://arxiv.org/abs/2103.01302
 
-A Deep Emulator for Secondary Motion of 3D Characters
+* A Deep Emulator for Secondary Motion of 3D Characters
 Mianlun Zheng, Yi Zhou, Duygu Ceylan, Jernej Barbic
 https://arxiv.org/abs/2103.01261
 
-Fair Attribute Classification through Latent Space De-biasing
+* Fair Attribute Classification through Latent Space De-biasing
 https://arxiv.org/abs/2012.01469
 https://github.com/princetonvisualai/gan-debiasing
 https://princetonvisualai.github.io/gan-debiasing/
 
-Auto-Exposure Fusion for Single-Image Shadow Removal
+* Auto-Exposure Fusion for Single-Image Shadow Removal
 Lan Fu, Changqing Zhou, Qing Guo, Felix Juefei-Xu, Hongkai Yu, Wei Feng, Yang Liu, Song Wang
 https://arxiv.org/abs/2103.01255
 
-Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling
+* Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling
 https://arxiv.org/pdf/2102.06183.pdf
 https://github.com/jayleicn/ClipBERT
 
-MetaSCI: Scalable and Adaptive Reconstruction for Video Compressive Sensing
+* MetaSCI: Scalable and Adaptive Reconstruction for Video Compressive Sensing
 Zhengjue Wang, Hao Zhang, Ziheng Cheng, Bo Chen, Xin Yuan
 https://arxiv.org/abs/2103.01786
 
-AttentiveNAS: Improving Neural Architecture Search via Attentive
+* AttentiveNAS: Improving Neural Architecture Search via Attentive
 https://arxiv.org/pdf/2011.09011.pdf
 
-Diffusion Probabilistic Models for 3D Point Cloud Generation
+* Diffusion Probabilistic Models for 3D Point Cloud Generation
 Shitong Luo, Wei Hu
 https://arxiv.org/abs/2103.01458
 
-There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge
+* There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge
 Francisco Rivera Valverde, Juana Valeria Hurtado, Abhinav Valada
 https://arxiv.org/abs/2103.01353
 http://rl.uni-freiburg.de/research/multimodal-distill
 
-Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation
+* Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation
 https://arxiv.org/abs/2008.00951
 https://github.com/eladrich/pixel2style2pixel
 https://eladrich.github.io/pixel2style2pixel/
 
-Hierarchical and Partially Observable Goal-driven Policy Learning with Goals Relational Graph
+* Hierarchical and Partially Observable Goal-driven Policy Learning with Goals Relational Graph
 Xin Ye, Yezhou Yang
 https://arxiv.org/abs/2103.01350
 
-RepVGG: Making VGG-style ConvNets Great Again
+* RepVGG: Making VGG-style ConvNets Great Again
 https://arxiv.org/abs/2101.03697
 https://github.com/megvii-model/RepVGG
 
-Transformer Interpretability Beyond Attention Visualization
+* Transformer Interpretability Beyond Attention Visualization
 https://arxiv.org/pdf/2012.09838.pdf
 https://github.com/hila-chefer/Transformer-Explainability
 
-PREDATOR: Registration of 3D Point Clouds with Low Overlap
+* PREDATOR: Registration of 3D Point Clouds with Low Overlap
 https://arxiv.org/pdf/2011.13005.pdf
 https://github.com/ShengyuH/OverlapPredator
 https://overlappredator.github.io/
 
-Multiresolution Knowledge Distillation for Anomaly Detection
+* Multiresolution Knowledge Distillation for Anomaly Detection
 https://arxiv.org/abs/2011.11108
 
-Positive-Unlabeled Data Purification in the Wild for Object Detection
+* Positive-Unlabeled Data Purification in the Wild for Object Detection
 
-Data-Free Knowledge Distillation For Image Super-Resolution
+* Data-Free Knowledge Distillation For Image Super-Resolution
 
-Manifold Regularized Dynamic Network Pruning
+* Manifold Regularized Dynamic Network Pruning
 
-Pre-Trained Image Processing Transformer
+* Pre-Trained Image Processing Transformer
 https://arxiv.org/pdf/2012.00364.pdf
 
-ReNAS: Relativistic Evaluation of Neural Architecture Search
+* ReNAS: Relativistic Evaluation of Neural Architecture Search
 https://arxiv.org/pdf/1910.01523.pdf
 
-AdderSR: Towards Energy Efficient Image Super-Resolution
+* AdderSR: Towards Energy Efficient Image Super-Resolution
 https://arxiv.org/pdf/2009.08891.pdf
 https://github.com/huawei-noah/AdderNet
 
-Learning Student Networks in the Wild
+* Learning Student Networks in the Wild
 https://arxiv.org/pdf/1904.01186.pdf
 https://github.com/huawei-noah/DAFL
 https://www.zhihu.com/question/446299297
 
-HourNAS: Extremely Fast Neural Architecture Search Through an Hourglass Lens
+* HourNAS: Extremely Fast Neural Architecture Search Through an Hourglass Lens
 https://arxiv.org/pdf/2005.14446.pdf
 
-Probabilistic Embeddings for Cross-Modal Retrieval
+* Probabilistic Embeddings for Cross-Modal Retrieval
 https://arxiv.org/abs/2101.05068
 
-PLOP: Learning without Forgetting for Continual Semantic Segmentation
+* PLOP: Learning without Forgetting for Continual Semantic Segmentation
 https://arxiv.org/abs/2011.11390
 
-Rainbow Memory: Continual Learning with a Memory of Diverse Samples
+* Rainbow Memory: Continual Learning with a Memory of Diverse Samples
 
-Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing
+* Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing
 
 
 
