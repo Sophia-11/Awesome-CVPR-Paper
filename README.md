@@ -18,6 +18,26 @@ update：2021/03/16
 
 ### 【2】CVPR2021最新更新论文
 
+* 3D Graph Anatomy Geometry-Integrated Network for Pancreatic Mass Segmentation, Diagnosis, and Quantitative Patient Management
+
+* Deep Lesion Tracker: Monitoring Lesions in 4D Longitudinal Imaging Studies
+https://arxiv.org/abs/2012.04872
+
+* Automatic Vertebra Localization and Identification in CT by Spine Rectification and Anatomically-constrained Optimization
+https://arxiv.org/abs/2012.07947
+
+* 3D CNNs with Adaptive Temporal Feature Resolutions
+https://arxiv.org/abs/2011.08652
+
+* KeepAugment: A Simple Information-Preserving Data Augmentation
+https://arxiv.org/pdf/2011.11778.pdf
+
+* Hijack-GAN: Unintended-Use of Pretrained, Black-Box GANs
+https://arxiv.org/pdf/2011.14107.pdf
+
+* D-NeRF: Neural Radiance Fields for Dynamic Scenes
+https://arxiv.org/abs/2011.13961
+
 * Coarse-Fine Networks for Temporal Activity Detection in Videos
 
 * Instance Localization for Self-supervised Detection Pretraining
