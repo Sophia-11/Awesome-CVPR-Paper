@@ -1,5 +1,13 @@
 ## CVPR 2022放榜了！
 
+### 最新推荐：
+##### 3D人体姿态估计/姿态估计/Transformer/3D人体重建
+MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation
+
+Paper: https://arxiv.org/pdf/2111.12707.pdf
+
+Code: https://github.com/Vegetebird/MHFormer
+
 文章完全公布后，我会及时下载分享给大家，一起学习进步！
 
 录取ID公布：
