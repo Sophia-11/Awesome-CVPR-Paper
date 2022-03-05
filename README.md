@@ -17,6 +17,14 @@ update：2022/03/02  更新部分文章解读
 #### 【0】CVPR2022录取结果公布
 * [CVPR2022录用名单](./CVPR2022/Readme.md)
 * 还在更新中....未完待续
+### 最新推荐：
+##### 3D人体姿态估计/姿态估计/Transformer/3D人体重建
+MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation
+
+Paper: https://arxiv.org/pdf/2111.12707.pdf
+
+Code: https://github.com/Vegetebird/MHFormer
+
 
 ---------------------
 ### 【1】CVPR2021录取结果公布
